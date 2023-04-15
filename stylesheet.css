@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Source+Sans+Pro&display=swap');
+
+.list{
+    /* padding: 0rem; */
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 20px;
+}
+   
+body{
+    padding-inline-start: 20px;
+    font-family: 'Inter', sans-serif;
+}
+
+.blog{
+    border: 1px solid black;
+    padding: 0px 20px 20px 20px;
+    /* padding-inline-start: 20px;
+    padding-bottom: 20px; */
+
+}
